@@ -1,0 +1,16 @@
+M:\SMT\Equipment\HB\3. Apps\3. Persebaran\Persebaran\WinFormsApp1\bin\Debug\net8.0-windows\YgxViewer.exe
+M:\SMT\Equipment\HB\3. Apps\3. Persebaran\Persebaran\WinFormsApp1\bin\Debug\net8.0-windows\YgxViewer.deps.json
+M:\SMT\Equipment\HB\3. Apps\3. Persebaran\Persebaran\WinFormsApp1\bin\Debug\net8.0-windows\YgxViewer.runtimeconfig.json
+M:\SMT\Equipment\HB\3. Apps\3. Persebaran\Persebaran\WinFormsApp1\bin\Debug\net8.0-windows\YgxViewer.dll
+M:\SMT\Equipment\HB\3. Apps\3. Persebaran\Persebaran\WinFormsApp1\bin\Debug\net8.0-windows\YgxViewer.pdb
+M:\SMT\Equipment\HB\3. Apps\3. Persebaran\Persebaran\WinFormsApp1\obj\Debug\net8.0-windows\YgxViewer.Form1.resources
+M:\SMT\Equipment\HB\3. Apps\3. Persebaran\Persebaran\WinFormsApp1\obj\Debug\net8.0-windows\YgxViewer.csproj.GenerateResource.cache
+M:\SMT\Equipment\HB\3. Apps\3. Persebaran\Persebaran\WinFormsApp1\obj\Debug\net8.0-windows\YgxViewer.GeneratedMSBuildEditorConfig.editorconfig
+M:\SMT\Equipment\HB\3. Apps\3. Persebaran\Persebaran\WinFormsApp1\obj\Debug\net8.0-windows\YgxViewer.AssemblyInfoInputs.cache
+M:\SMT\Equipment\HB\3. Apps\3. Persebaran\Persebaran\WinFormsApp1\obj\Debug\net8.0-windows\YgxViewer.AssemblyInfo.cs
+M:\SMT\Equipment\HB\3. Apps\3. Persebaran\Persebaran\WinFormsApp1\obj\Debug\net8.0-windows\YgxViewer.csproj.CoreCompileInputs.cache
+M:\SMT\Equipment\HB\3. Apps\3. Persebaran\Persebaran\WinFormsApp1\obj\Debug\net8.0-windows\YgxViewer.dll
+M:\SMT\Equipment\HB\3. Apps\3. Persebaran\Persebaran\WinFormsApp1\obj\Debug\net8.0-windows\refint\YgxViewer.dll
+M:\SMT\Equipment\HB\3. Apps\3. Persebaran\Persebaran\WinFormsApp1\obj\Debug\net8.0-windows\YgxViewer.pdb
+M:\SMT\Equipment\HB\3. Apps\3. Persebaran\Persebaran\WinFormsApp1\obj\Debug\net8.0-windows\YgxViewer.genruntimeconfig.cache
+M:\SMT\Equipment\HB\3. Apps\3. Persebaran\Persebaran\WinFormsApp1\obj\Debug\net8.0-windows\ref\YgxViewer.dll

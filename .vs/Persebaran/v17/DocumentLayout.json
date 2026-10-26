@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\SMT\\Equipment\\HB\\3. Apps\\3. Persebaran\\Persebaran\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2BAAEF-0146-4D4F-89E5-4AFA0D4CB66C}|WinFormsApp1\\YgxViewer.csproj|m:\\smt\\equipment\\hb\\3. apps\\3. persebaran\\persebaran\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2BAAEF-0146-4D4F-89E5-4AFA0D4CB66C}|WinFormsApp1\\YgxViewer.csproj|solutionrelative:winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2BAAEF-0146-4D4F-89E5-4AFA0D4CB66C}|WinFormsApp1\\YgxViewer.csproj|m:\\smt\\equipment\\hb\\3. apps\\3. persebaran\\persebaran\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2BAAEF-0146-4D4F-89E5-4AFA0D4CB66C}|WinFormsApp1\\YgxViewer.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2BAAEF-0146-4D4F-89E5-4AFA0D4CB66C}|WinFormsApp1\\YgxViewer.csproj|m:\\smt\\equipment\\hb\\3. apps\\3. persebaran\\persebaran\\winformsapp1\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2BAAEF-0146-4D4F-89E5-4AFA0D4CB66C}|WinFormsApp1\\YgxViewer.csproj|solutionrelative:winformsapp1\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2BAAEF-0146-4D4F-89E5-4AFA0D4CB66C}|WinFormsApp1\\YgxViewer.csproj|m:\\smt\\equipment\\hb\\3. apps\\3. persebaran\\persebaran\\winformsapp1\\boardview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2BAAEF-0146-4D4F-89E5-4AFA0D4CB66C}|WinFormsApp1\\YgxViewer.csproj|solutionrelative:winformsapp1\\boardview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2BAAEF-0146-4D4F-89E5-4AFA0D4CB66C}|WinFormsApp1\\YgxViewer.csproj|m:\\smt\\equipment\\hb\\3. apps\\3. persebaran\\persebaran\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2BAAEF-0146-4D4F-89E5-4AFA0D4CB66C}|WinFormsApp1\\YgxViewer.csproj|solutionrelative:winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2BAAEF-0146-4D4F-89E5-4AFA0D4CB66C}|WinFormsApp1\\YgxViewer.csproj|m:\\smt\\equipment\\hb\\3. apps\\3. persebaran\\persebaran\\winformsapp1\\ygxparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2BAAEF-0146-4D4F-89E5-4AFA0D4CB66C}|WinFormsApp1\\YgxViewer.csproj|solutionrelative:winformsapp1\\ygxparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "M:\\SMT\\Equipment\\HB\\3. Apps\\3. Persebaran\\Persebaran\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "M:\\SMT\\Equipment\\HB\\3. Apps\\3. Persebaran\\Persebaran\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:21:11.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Models.cs",
+              "DocumentMoniker": "M:\\SMT\\Equipment\\HB\\3. Apps\\3. Persebaran\\Persebaran\\WinFormsApp1\\Models.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models.cs",
+              "ToolTip": "M:\\SMT\\Equipment\\HB\\3. Apps\\3. Persebaran\\Persebaran\\WinFormsApp1\\Models.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:20:50.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ygxparser.cs",
+              "DocumentMoniker": "M:\\SMT\\Equipment\\HB\\3. Apps\\3. Persebaran\\Persebaran\\WinFormsApp1\\Ygxparser.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Ygxparser.cs",
+              "ToolTip": "M:\\SMT\\Equipment\\HB\\3. Apps\\3. Persebaran\\Persebaran\\WinFormsApp1\\Ygxparser.cs",
+              "RelativeToolTip": "WinFormsApp1\\Ygxparser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:19:05.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\SMT\\Equipment\\HB\\3. Apps\\3. Persebaran\\Persebaran\\WinFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Program.cs",
+              "ToolTip": "M:\\SMT\\Equipment\\HB\\3. Apps\\3. Persebaran\\Persebaran\\WinFormsApp1\\Program.cs",
+              "RelativeToolTip": "WinFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:18:53.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "M:\\SMT\\Equipment\\HB\\3. Apps\\3. Persebaran\\Persebaran\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "M:\\SMT\\Equipment\\HB\\3. Apps\\3. Persebaran\\Persebaran\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:18:34.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BoardView.cs",
+              "DocumentMoniker": "M:\\SMT\\Equipment\\HB\\3. Apps\\3. Persebaran\\Persebaran\\WinFormsApp1\\BoardView.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\BoardView.cs",
+              "ToolTip": "M:\\SMT\\Equipment\\HB\\3. Apps\\3. Persebaran\\Persebaran\\WinFormsApp1\\BoardView.cs",
+              "RelativeToolTip": "WinFormsApp1\\BoardView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:18:21.265Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

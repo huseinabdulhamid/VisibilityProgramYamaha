@@ -1,0 +1,28 @@
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+Build output
+
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+Temporary files
+
+*.tmp
+*.log
+
+NuGet
+
+packages/
+
+Local configuration and sensitive data
+
+.env
+secrets.json
