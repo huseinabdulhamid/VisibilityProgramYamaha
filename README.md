@@ -3,6 +3,7 @@
 A desktop-based engineering tool developed to improve visibility, traceability, and analysis of Yamaha SMT production program data.
 
 The application helps SMT Engineers quickly access, search, analyze, and validate Yamaha production program information, reducing manual verification time and improving production efficiency.
+<img width="1913" height="1013" alt="image" src="https://github.com/user-attachments/assets/1c515e57-32c4-4563-8500-579ee065e7a5" />
 
 ---
 
