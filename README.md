@@ -105,20 +105,6 @@ Yamaha Program Data
 - DataTable
 - File System API
 
----
-
-## 📸 Screenshots
-
-### Main Dashboard
-_Add application screenshot here_
-
-### Search Function
-_Add application screenshot here_
-
-### Program Analysis
-_Add application screenshot here_
-
----
 
 ## 📁 Project Structure
 
